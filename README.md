@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="banner.svg" width="100%" alt="The night sky tears open into a black rift, two towering masked shadows rise inside it, a plush mascot panics, grabs a sword and cracks their masks">
+  <img src="banner.svg" width="100%" alt="Fan tribute to Bleach: the sky tears open, two masked giants rise inside the rift, a plush lion panics, draws a black blade and cuts them down with a crescent slash">
 </p>
 
 <p align="center"><b>not a stuffed toy.</b> just a mod soul with commit access.</p>
+<p align="center"><sub>fan tribute · Bleach © Tite Kubo / Shueisha</sub></p>
