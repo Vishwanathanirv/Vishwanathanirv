@@ -6,7 +6,7 @@
 
 I build things for fun. Security is what keeps pulling me in.
 
-Every project below runs in your browser, keeps your data on your machine, and ships a threat model (`SECURITY.md`) that says what it does not protect against.
+Each one has a live demo with no sign-up, and ships a threat model (`SECURITY.md`) that says what it does not protect against.
 
 | Build | What it does |
 | --- | --- |
